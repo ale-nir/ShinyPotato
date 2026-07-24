@@ -1,6 +1,6 @@
 # 🥔 ShinyPotato
 
-**ShinyPotato** is an interactive R Shiny application developed by the Laboratoire de Biotechnologie et Biologie Appliquée (CARAH asbl, Belgium) for the exploration of potato SSR genotype data and parentage analysis.
+**ShinyPotato** is an interactive R Shiny application developed by the *Laboratoire de Biotechnologie et Biologie Appliquée (CARAH asbl, Belgium)* for the exploration of potato SSR genotype data and parentage analysis.
 
 The application provides an intuitive graphical interface for navigating a potato genotype database and performing similarity- and likelihood-based analyses using Jaccard similarity coefficients and LOD scores.
 
@@ -60,9 +60,9 @@ The complete analytical source code is available in the companion repository:
 
 The repository contains:
 
-the complete R and Rcpp source code implementing the analytical methods;
-detailed documentation for the main functions;
-reproducible examples illustrating the workflow presented in the manuscript.
+- the complete R and Rcpp source code implementing the analytical methods;
+- detailed documentation for the main functions;
+- reproducible examples illustrating the workflow presented in the manuscript.
 
 ---
 
@@ -79,10 +79,11 @@ The graphical interface source code is **not publicly distributed**.
 ## Contact and Feedback
 
 Questions, comments and feedback are welcome through the Issues section of this repository.
-For scientific questions regarding the application:
+
+For scientific questions regarding the application: a.nirsha@carah.be
 
 © 2026 Alexandra Nirsha - CARAH asbl
 
 
-This repository is provided for demonstration purposes only.
-The ShinyPotato application and its graphical interface remain the property of CARAH asbl and are not distributed through this repository.
+*This repository is provided for demonstration purposes only.
+The ShinyPotato application and its graphical interface remain the property of CARAH asbl and are not distributed through this repository.*
